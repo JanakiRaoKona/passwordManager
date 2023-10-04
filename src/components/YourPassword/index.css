@@ -1,0 +1,67 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+.list-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #c3caea;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+.bg-surname {
+  height: 20px;
+  width: 20px;
+  border-radius: 46px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-weight: 700;
+  padding: 2px;
+}
+.website {
+  font-size: 10px;
+  font-family: 'Roboto';
+  color: #f8fafc;
+}
+.delete-image {
+  height: 20px;
+}
+.button2 {
+  border: none;
+  background-color: transparent;
+}
+.stars-image {
+  width: 50px;
+  height: 10px;
+}
